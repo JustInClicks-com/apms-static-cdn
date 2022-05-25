@@ -1080,9 +1080,6 @@ h1, h2, h3, h4, h5, h6 {
   float: right;
 }
 
-.modal-header,.header{
-  background-color: #000048;
-}
-.modal-title{color:white;}
+
 .btn-close{filter: brightness(0) invert(1);}
 .toggle-sidebar-btn,.dropdown-toggle,.d-lg-block{color: white !important;}
