@@ -1,13 +1,3 @@
-/**
-* Template Name: NiceAdmin - v2.2.2
-* Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 :root {
   scroll-behavior: smooth;
 }
@@ -1083,4 +1073,5 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn-close{filter: brightness(0) invert(1);}
 .toggle-sidebar-btn,.dropdown-toggle,.d-lg-block{color: white !important;}
-button{ margin-right:10px; !important}
+.btn{ margin-right:10px; !important}
+
