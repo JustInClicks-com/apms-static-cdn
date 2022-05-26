@@ -1083,3 +1083,4 @@ h1, h2, h3, h4, h5, h6 {
 
 .btn-close{filter: brightness(0) invert(1);}
 .toggle-sidebar-btn,.dropdown-toggle,.d-lg-block{color: white !important;}
+button{ margin-right:10px; !important}
